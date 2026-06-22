@@ -117,6 +117,6 @@ jq . .claude-plugin/plugin.json
 
 ---
 
-**版本**：v1.1
+**版本**：v1.2
 **最后更新**：2026-06-22
 **维护者**：hao.yang

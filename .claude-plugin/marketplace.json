@@ -1,0 +1,17 @@
+{
+  "name": "tuanzi",
+  "owner": {
+    "name": "hao.yang"
+  },
+  "metadata": {
+    "description": "团子 —— 老王自用的 Claude Code marketplace，整合个人 skills / agents / commands / output-styles"
+  },
+  "plugins": [
+    {
+      "name": "tuanzi",
+      "description": "老王自用工具包：skills / agents / commands / output-styles 一站式集合",
+      "source": "./",
+      "version": "0.1.0"
+    }
+  ]
+}

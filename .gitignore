@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs / cache
+*.log
+.cache/
+node_modules/
+
+# OMC / Claude 运行时产物
+.omc/state/
+.omc/logs/
+.omc/sessions/
+
+# 临时
+*.swp
+*.tmp
+*~

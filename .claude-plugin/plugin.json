@@ -1,0 +1,8 @@
+{
+  "name": "tuanzi",
+  "description": "老王自用 Claude Code 工具包（skills/agents/commands/output-styles/hooks/rules）",
+  "version": "0.1.0",
+  "author": {
+    "name": "hao.yang"
+  }
+}
